@@ -9,7 +9,7 @@ header nav
 }
 header nav ul
 {
-    list-style-type: none;
+    /* list-style-type: none; */
     width: 50%;
     float: right;
     padding-top: 45px;
@@ -29,8 +29,7 @@ header nav ul li
 {
     float: left;
     margin: 10px 0px 10px 200px;
-    width: 200px;
-    height: 70px;
+
 }
 #MainTop
 {
@@ -40,7 +39,7 @@ header nav ul li
 #Main
 {
     margin-top: 30px;
-    width: 100%;
+    /* width: 100%; */
     margin-left: 280px;
     padding-right: 15px ;
 }
@@ -57,11 +56,6 @@ main section#Main img:nth-child(3)
     margin-top: 30px;
     margin-left: 280px;
 }
-/* main section#MainBotton textarea
-{   
- width: 480px;
- height: 350px;
-} */
 main div.Scrool 
 {
     
