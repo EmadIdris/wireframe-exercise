@@ -30,32 +30,32 @@ header nav div{
     margin: 10px 0px 10px 280px;
 
 }
-#MainTop
+main section:nth-child(1)
 {
     margin-top: 30px;
     margin-left: 280px;
 }
-#Main
+main section:nth-child(2) 
 {
     margin-top: 30px;
     /* width: 100%; */
     margin-left: 280px;
     padding-right: 15px ;
 }
-main section#Main img:nth-child(2)
+main section:nth-child(2) img:nth-child(2)
 {
     padding-left: 26px;
 }
-main section#Main img:nth-child(3)
+main section:nth-child(2) img:nth-child(3)
 {
     padding-left: 26px;
 }
-#MainBotton
+main section:nth-child(3)
 {   
     margin-top: 30px;
     margin-left: 280px;
 }
-main div.Scrool 
+main section:nth-child(3) div 
 {
     
 display: inline-block;
